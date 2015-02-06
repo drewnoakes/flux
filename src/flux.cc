@@ -1,4 +1,4 @@
-#include "flux.hh"
+#include <flux/flux.hh>
 
 using namespace flux;
 using namespace std;
